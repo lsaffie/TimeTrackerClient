@@ -1,0 +1,10 @@
+Time tracking standalone application
+
+Very simple time tracking application. It records the name, start time, end time of your tasks.
+
+It records them to a database and could export to a csv.
+
+TODO
+
+* Create rake task for cvs export
+* Save customer name in task
